@@ -23,9 +23,9 @@ dealloc
 ### 2.写出五种常用的UI控件
 UIScrollView  
 UITableView  
-UICollectionView
-UIWebView & WKWebView
-UIButton
+UICollectionView  
+UIWebView & WKWebView  
+UIButton  
 
 ### 3.列举出三个UITableViewDelegate声明的方法
 ```objc
