@@ -3,13 +3,13 @@
 ### 1.按顺序打印出App、ViewController生命周期的各个事件
 **App**:  
 点击程序图标  
-执行main函数
-通过UIApplicationMain函数
-初始化UIApplication对象并且为它设置代理对象
-UIApplication对象（监听系统事件）
-程序结束退出
+执行main函数  
+通过UIApplicationMain函数  
+初始化UIApplication对象并且为它设置代理对象  
+UIApplication对象（监听系统事件）  
+程序结束退出  
 
-**ViewController**:
+**ViewController**:  
 alloc/init  
 loadView  
 viewDidLoad  
@@ -23,9 +23,9 @@ dealloc
 ### 2.写出五种常用的UI控件
 UIScrollView  
 UITableView  
-UICollectionView
-UIWebView & WKWebView
-UIButton
+UICollectionView  
+UIWebView & WKWebView  
+UIButton  
 
 ### 3.列举出三个UITableViewDelegate声明的方法
 ```objc
